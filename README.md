@@ -1,5 +1,5 @@
 
-## WORLD HAPPINESS REPORT 2024
+## DÜNYA MUTLULUK RAPORU
 
 Bu proje, veri analizinin temel kavramlarını anlamamı ve uygulamamı sağlayan interaktif bir deneyim sundu. Kendi veri setimi seçerek, Google Colab'da bir proje dosyası oluşturduktan sonra GitHub'da bir repo açtım. Ardından, aşağıdaki adımları izleyerek veri analizi sürecini tamamladım:
 
